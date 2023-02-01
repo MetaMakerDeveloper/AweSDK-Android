@@ -200,7 +200,7 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 ## Download
 
 * release from [github: ![Latest release](https://img.shields.io/badge/release-v1.0.0-blue.svg
-)](https://github.com/MetaMakerDeveloper/AweSDK-Unity-Plugin/releases/tag/v1.0.0)
+)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.0.0)
 
 
 ## Document
