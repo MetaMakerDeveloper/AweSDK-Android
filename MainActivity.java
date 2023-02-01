@@ -10,12 +10,8 @@ import android.widget.LinearLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.awesdk.EnvironmentManager;
-import com.awesdk.FileTools;
 import com.awesdk.Global;
 import com.awesdk.UnityPlayerManager;
-
-import java.io.IOException;
-
 import com.awesdk.Authorization.LicenseManager;
 import com.awesdk.Scene.Human;
 import com.awesdk.Scene.Scene;
