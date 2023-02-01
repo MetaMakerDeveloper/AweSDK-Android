@@ -194,7 +194,7 @@ private void loadHuman(Context context)
 
 > Note: The creation of a digital person needs to be executed after the EnvironmentManager's callback `initEnd`
 
-See [MainActivity.java]() for the complete source code
+See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blob/main/MainActivity.java) for the complete source code
 
 
 ## Download
