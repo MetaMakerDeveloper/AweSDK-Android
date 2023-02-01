@@ -10,7 +10,7 @@
 ### Importing `AweSDK.aar` 
 
 1. Introducing libraries into the project
-2. Modify the build.gradle configuration file under the app and add the following configuration to the dependencies node
+2. Modify the **build.gradle** configuration file under the app and add the following configuration to the dependencies node
 
 ```gradle
 dependencies {
@@ -20,7 +20,7 @@ dependencies {
 
 ### Asset files are not compressed
 
-Modify the build.gradle configuration file under the app and add the following configuration to the android node
+Modify the **build.gradle** configuration file under the app and add the following configuration to the android node
 
 ```gradle
 android {
@@ -32,7 +32,7 @@ android {
 
 ### Add support for armv7, arm64
 
-Modify the build.gradle configuration file under the app and add the following configuration to the android node
+Modify the **build.gradle** configuration file under the app and add the following configuration to the android node
 
 ```gradle
 android {
