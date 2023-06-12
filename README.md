@@ -210,7 +210,7 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 
 ## Version
 
-### V1.1.0 (2023-06-07) 
+### V1.1.0 (2023-06-12) 
 
 * Adjusted the ambient lighting to make the digital people more realistic
 
