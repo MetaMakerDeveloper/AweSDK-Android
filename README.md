@@ -199,8 +199,8 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 
 ## Download
 
-* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.0-blue.svg
-)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.0)
+* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.1-blue.svg
+)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.1)
 
 
 ## Document
@@ -209,6 +209,9 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 * [Resources Download](http://developer.metamaker.cn/)
 
 ## Version
+
+### V1.1.0 (2023-06-07) 
+* Adjusted the ambient lighting to make the digital people more realistic
 
 ### V1.1.0 (2023-06-07) 
 
