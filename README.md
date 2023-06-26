@@ -185,6 +185,8 @@ private void loadHuman(Context context)
 
     // 给数字人播放一个动画
     human.playAnimation("34025");
+    // 如果没有动画资源，也可以传入空字符串，会显示默认的处于 A-Pose 状态的数字人，如下
+    // human.playAnimation("");
 
     // 将数字人添加到场景中
     Scene scene = SceneManager.getInstance(context).getCurrentScene();
@@ -199,8 +201,8 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 
 ## Download
 
-* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.1-blue.svg
-)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.1)
+* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.2-blue.svg
+)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.2)
 
 
 ## Document
@@ -210,7 +212,12 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 
 ## Version
 
-### V1.1.0 (2023-06-12) 
+### V1.1.2 (2023-06-26) 
+
+* Solve the bug that A-Pose will appear when playing animation
+* Add the default display of digital people in the A-Pose state when the parameter in the play animation function is an empty string.
+
+### V1.1.1 (2023-06-12) 
 
 * Adjusted the ambient lighting to make the digital people more realistic
 

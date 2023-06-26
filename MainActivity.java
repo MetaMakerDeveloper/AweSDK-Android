@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
 
         // 给数字人播放一个动画
         human.playAnimation("34025");
+        // 如果没有动画资源，也可以传入空字符串，会显示默认的处于 A-Pose 状态的数字人，如下
+        // human.playAnimation("");
 
         // 将数字人添加到场景中
         Scene scene = SceneManager.getInstance(context).getCurrentScene();
