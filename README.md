@@ -201,8 +201,8 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 
 ## Download
 
-* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.2-blue.svg
-)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.2)
+* release from [github: ![Latest release](https://img.shields.io/badge/release-v1.1.3-blue.svg
+)](https://github.com/MetaMakerDeveloper/AweSDK-Android/releases/tag/v1.1.3)
 
 
 ## Document
@@ -211,6 +211,10 @@ See [MainActivity.java](https://github.com/MetaMakerDeveloper/AweSDK-Android/blo
 * [Resources Download](http://developer.metamaker.cn/)
 
 ## Version
+
+### V1.1.3 (2023-06-29) 
+
+* Solve the bug that the setVisible function of Digital People does not work
 
 ### V1.1.2 (2023-06-26) 
 
